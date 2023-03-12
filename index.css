@@ -1,0 +1,50 @@
+h1{
+  color: rgb(255, 183, 0);
+}
+body{
+  background-image: url(https://us.123rf.com/450wm/faizalramli/faizalramli2004/faizalramli200400048/145063639-abstract-vignette-green-chalkboard-use-as-a-background.jpg?ver=6);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-weight: 900;  
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+/* .container0,.container,.container1,.container2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+#message-el{
+  font-style: italic;
+}
+.st{
+  margin-top: 60px;
+  background-color: goldenrod;
+  border-radius:100px;
+  width: 150px;
+  height: 30px;
+  border: 0ch;
+  color: rgb(26, 112, 3);
+  font-weight: 700;
+}
+.st:hover{
+  background-color: green;
+  color: goldenrod;
+}
+.btn2{
+  padding-top: 50px;
+}
+.new{
+  background-color: goldenrod;
+  border-radius:100px;
+  width: 150px;
+  height: 30px;
+  border: 0ch;
+  color: rgb(26, 112, 3);
+  font-weight: 700;
+}
+.new:hover{
+  background-color: green;
+  color: goldenrod;
+}
